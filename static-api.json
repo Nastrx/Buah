@@ -1,0 +1,7 @@
+[
+    {"nama": "Anggur", "namaLatin": "Vitis labrusca", "imageId": "anggurfoto"},
+    {"nama": "Durian", "namaLatin": "Durio zibethinus", "imageId": "durianfoto"},
+    {"nama": "Kedongdong", "namaLatin": "Spondias dulcis", "imageId": "kedongdongbuah"},
+    {"nama": "Kelengkeng", "namaLatin": "Dimocarpus longan", "imageId": "kelengkengbuah"},
+    {"nama": "Rambutan", "namaLatin": "Nephelium lappaceum", "imageId": "rambutanbuah"}
+]
